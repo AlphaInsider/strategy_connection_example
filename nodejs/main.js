@@ -6,8 +6,8 @@ const j = require('joi');
 
 //API
 const API_ENDPOINT = 'https://alphainsider.com/api';
-const API_KEY = '';
-const STRATEGY_ID = '';
+const API_KEY = ''; // Replace with your API key
+const STRATEGY_ID = ''; // Replace with your strategy ID
 
 //positions
 let positions = [
